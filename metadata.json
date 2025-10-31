@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HALTE.IA OFFLINE REGEN",
+  "description": "",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
